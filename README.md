@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1up4qBQ0GGHH5XMAWqmd9Y-mNf0qaDV7A/view?usp=sharing](https://drive.google.com/file/d/1up4qBQ0GGHH5XMAWqmd9Y-mNf0qaDV7A/view?usp=sharing)
 
-- ⚡ Fun fact **We Gonna wrestle. Let's wrestle now ...**
+- ⚡ Fun fact **Did you know that the average person spends around six months of their life waiting for red lights to turn green?.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
