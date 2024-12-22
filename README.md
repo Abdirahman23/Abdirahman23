@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abdoudeh</h1>
-<h3 align="center">A passionate Full-stack Software Engineer Based in Pakistan</h3>
+<h3 align="center">A passionate Full-stack Software Engineer | Penetration Tester </h3>
 
 <img align="right" width="400" src="https://imgs.search.brave.com/P09df-6mIB5iop1Op7K1eSIUcOYiUct7tYYxlkhpoUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif" alt="aboudeh___">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahman23&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahman23" /> </p>
 
-- 🔭 I’m currently working on ***Fortune Chatting***
+- 🔭 I’m currently working on *** Web/Mobile Security ***
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning ** API hacking  **
 
-- 👯 I’m looking to collaborate on ***Any MERN App***
+- 👯 I’m looking to collaborate on *** API hacking ***
 
   
 
 - 👨‍💻 All of my projects are available at [***](***)
 
-- 💬 Ask me about **C++ , Android , Web App**
+- 💬 Ask me about **C++ , Pentesting API's , Android , Web Apps**
 
 - 📫 How to reach me **apdirahmansaed@gmail.com**
 
