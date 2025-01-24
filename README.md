@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aboudeh</h1>
-<h3 align="center">A Full-stack Software Engineer |Security Analyst | Penetration Tester </h3>
+<h3 align="center">A CS Student |CyberSecurity Analyst | Coder </h3>
 
 <img align="right" width="400" src="https://imgs.search.brave.com/P09df-6mIB5iop1Op7K1eSIUcOYiUct7tYYxlkhpoUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif" alt="aboudeh___">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahman23&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahman23" /> </p>
 
-- 🔭 I’m currently working on *** Web/Mobile Security ***
+- 🔭 I’m currently working on *** Certified In Cybersecurity Exam Prep  ***
 
-- 🌱 I’m currently learning ** API hacking  **
+- 🌱 I’m currently learning ** IBM Cybersecurity Analyst Prof  **
 
-- 👯 I’m looking to collaborate on *** API hacking ***
+- 👯 I’m looking to collaborate on *** System Security and Threat Hunting ***
 
   
 
 - 👨‍💻 All of my projects are available at [***](***)
 
-- 💬 Ask me about **C++ , Pentesting API's , Android , Web Apps**
+- 💬 Ask me about **System Security , Threat Hunting , C++ , Pentesting API's , Android , Web Apps**
 
 - 📫 How to reach me **apdirahmansaed@gmail.com**
 
